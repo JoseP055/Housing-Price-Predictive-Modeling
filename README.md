@@ -33,5 +33,5 @@ Desarrollar uno o varios modelos para calcular el precio de venta de viviendas u
 - Entorno de desarrollo: Jupyter Notebook, Python.
 
 ## Repositorio del Proyecto
-[Repositorio del Paper]()
+[[Repositorio del Proyecto]()](https://github.com/JoseP055/Housing-Price-Predictive-Modeling)
 
